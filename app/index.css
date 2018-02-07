@@ -1,0 +1,35 @@
+#header{
+	padding-bottom:20px;
+	padding-top: 20px;
+}
+
+.currency-box{
+	border: 1.5px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.box-name{
+	font-size: 30px;
+    font-weight: 500;
+}
+
+.box-price{
+	font-size: 20px;
+    font-weight: 400;
+	color:orange;
+}
+
+.box-detail{
+	margin-top:5px;
+	color: gray;
+}
+
+.change-value.positive{
+	color: green;
+}
+
+.change-value.negative{
+	color: red;
+}
